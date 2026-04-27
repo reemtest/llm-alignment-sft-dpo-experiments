@@ -138,3 +138,23 @@ This project demonstrates how:
 - FFT improves general adaptation
 - SFT enables strong code generation ability
 - DPO enforces safety and behavioral alignment
+
+### 🔗 Collaborators
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Malak Aboouf">
+        <img src="https://github.com/malakaboouf.png" width="100px;" alt="Malak Aboouf"/><br />
+        <sub><b>Malak Aboouf</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/reemtest">
+        <img src="https://github.com/reemtest.png" width="100px;" alt="reemtest"/><br />
+        <sub><b>reemtest</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
